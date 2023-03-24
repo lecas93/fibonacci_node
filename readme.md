@@ -1,4 +1,4 @@
-Primero validamos que se haya recibido un valor númerico para nuestro indice a utilizar, caso contrario, le notificamos al usuario que ha enviado un dato invalido
+Primero validamos que se haya recibido un valor númerico para nuestro indice a utilizar en la ruta */fibo* como un parametro llamado *n*, caso contrario, le notificamos al usuario que ha enviado un dato invalido
 
 Posteriormente llamo a la funcion *getFibo* para calcular el número fibonacci con base al indice recibido
 
