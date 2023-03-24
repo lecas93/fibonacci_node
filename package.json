@@ -1,0 +1,15 @@
+{
+  "name": "fibonacci_node",
+  "version": "1.0.0",
+  "description": "api fibonacci",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angel Leon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
